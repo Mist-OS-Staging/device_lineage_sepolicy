@@ -3,4 +3,5 @@ user=_app isPrivApp=true seinfo=mediashell domain=mediashell_app name=com.google
 user=_app isPrivApp=true seinfo=mediashell domain=mediashell_app name=com.google.android.apps.mediashell:* type=privapp_data_file levelFrom=all
 
 # Updater
-user=_app isPrivApp=true seinfo=platform name=org.mist.updater domain=updater_app type=app_data_file levelFrom=user
+user=_app isPrivApp=true seinfo=platform name=com.mist.updater domain=updater_app type=app_data_file levelFrom=user
+user=_app seinfo=platform name=com.google.android.flipendo domain=flipendo type=app_data_file levelFrom=all
